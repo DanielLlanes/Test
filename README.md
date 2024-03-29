@@ -128,3 +128,15 @@ La clase `Router` maneja las rutas y las solicitudes HTTP entrantes, dirigiéndo
 
 - `dispatch()`: Despacha la solicitud entrante al controlador correspondiente basado en la ruta y el método HTTP.
 
+**NOTA:**
+
+SE agrego una vista para 
+Login,
+Crear usuario,
+Agrgar comentario,
+Eliminar comententario,
+Editar comentario,
+Agregar Like a comentario,
+
+
+eliminar y editar comentario solo se limita al usuario que lo creo
